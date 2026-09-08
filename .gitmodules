@@ -7,3 +7,6 @@
 [submodule "smashstack"]
 	path = smashstack
 	url = https://github.com/iGlitch/smashstack
+[submodule "homebrew-channel"]
+	path = homebrew-channel
+	url = https://github.com/fail0verflow/hbc
