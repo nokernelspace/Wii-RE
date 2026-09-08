@@ -4,3 +4,6 @@
 [submodule "str2hax"]
 	path = str2hax
 	url = https://github.com/Fullmetal5/str2hax
+[submodule "smashstack"]
+	path = smashstack
+	url = https://github.com/iGlitch/smashstack
