@@ -1,0 +1,6 @@
+[submodule "savezelda"]
+	path = savezelda
+	url = https://github.com/lewurm/savezelda
+[submodule "str2hax"]
+	path = str2hax
+	url = https://github.com/Fullmetal5/str2hax
